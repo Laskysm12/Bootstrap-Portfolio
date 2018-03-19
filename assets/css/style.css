@@ -33,7 +33,6 @@ body    {
 
 
 .navbar {
-
     width: 960px;
     margin: auto;
 }
@@ -146,10 +145,10 @@ footer  {
 }
 
 
-#comingsoon {
+#trainscheduler {
     text-align: center;
-    font-size: 25px;
-    padding: 80px;
+    font-size: 10px;
+    padding: 0px;
     
 }
 
